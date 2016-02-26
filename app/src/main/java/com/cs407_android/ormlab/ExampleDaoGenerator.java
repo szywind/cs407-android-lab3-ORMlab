@@ -29,7 +29,7 @@ public class ExampleDaoGenerator {
         guest.addStringProperty("lastName").notNull();
         guest.addStringProperty("email");
         guest.addStringProperty("phone");
-        Property display = guest.addBooleanProperty("display").getProperty();
+        guest.addBooleanProperty("display");
 
 
     }
