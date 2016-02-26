@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/libs/greenDAO.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edc8e9af1641a7717b8b7b18deba4467b19e9841">
+        <dex dex="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/build/intermediates/pre-dexed/debug/greenDAO-a416e212296e5d5605597cc58eb00b7ee76eda73.jar" />
+    </item>
+    <item
+        jar="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/build/intermediates/pre-dexed/debug/classes-46c193e64d474aca46611ea226d337094f808ed0.jar" />
+    </item>
+    <item
+        jar="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/libs/greendao-generator.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="996f9609df94098a29543c078a29010112c56909">
+        <dex dex="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/build/intermediates/pre-dexed/debug/greendao-generator-bc9761054a9a8000d97e0fa9d67bf4798dbdbcae.jar" />
+    </item>
+    <item
+        jar="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-bd28115c5fefa051bcec64b68034d5d87208c017.jar" />
+    </item>
+    <item
+        jar="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/build/intermediates/pre-dexed/debug/classes-c694844ec3d58e0be193a2840427ac0f8218b2d8.jar" />
+    </item>
+    <item
+        jar="/Users/shenzhenyuan/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/build/intermediates/pre-dexed/debug/freemarker-2.3.23-55e7c364df2b18d158e1d73d918f630baf4187a6.jar" />
+    </item>
+    <item
+        jar="/Users/shenzhenyuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/shenzhenyuan/Desktop/UW-CS/cs407/Lab/lab3/ORMlab/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-b33a4721389ede50ada81f1a67336558b9b3c1df.jar" />
+    </item>
+
+</items>
