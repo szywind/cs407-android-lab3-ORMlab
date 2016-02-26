@@ -147,7 +147,6 @@ public class MainActivity extends AppCompatActivity {
             guestList.add(g.getFirstName()+" "+g.getLastName());
         }
         adapter.notifyDataSetChanged();
-
     }
 
     private void saveGuest()
